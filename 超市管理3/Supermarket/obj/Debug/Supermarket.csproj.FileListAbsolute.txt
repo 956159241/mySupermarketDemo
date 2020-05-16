@@ -3,3 +3,10 @@ F:\test\我的测试\超市管理3\Supermarket\bin\Supermarket.pdb
 F:\test\我的测试\超市管理3\Supermarket\obj\Debug\Supermarket.dll
 F:\test\我的测试\超市管理3\Supermarket\obj\Debug\Supermarket.pdb
 F:\test\我的测试\超市管理3\Supermarket\obj\Debug\Supermarket.csprojResolveAssemblyReference.cache
+E:\WorkSpace\mySupermarketDemo\超市管理3\Supermarket\bin\Supermarket.dll
+E:\WorkSpace\mySupermarketDemo\超市管理3\Supermarket\bin\Supermarket.pdb
+E:\WorkSpace\mySupermarketDemo\超市管理3\Supermarket\obj\Debug\Supermarket.csprojAssemblyReference.cache
+E:\WorkSpace\mySupermarketDemo\超市管理3\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+E:\WorkSpace\mySupermarketDemo\超市管理3\Supermarket\obj\Debug\Supermarket.csproj.CopyComplete
+E:\WorkSpace\mySupermarketDemo\超市管理3\Supermarket\obj\Debug\Supermarket.dll
+E:\WorkSpace\mySupermarketDemo\超市管理3\Supermarket\obj\Debug\Supermarket.pdb
